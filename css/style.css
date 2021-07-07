@@ -382,6 +382,7 @@ p {
 }
 .gallery-w3ls-hover img { 
 	width: 100%;
+    height: 150px;
 }
 .gallery-w3ls-hover .view-caption {
 	background-color: rgba(236, 64, 122, 0.85);
